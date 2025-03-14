@@ -95,7 +95,7 @@ Si tomamos la misma configuración del proyecto de los test anteriores y realiza
 
 ## Recomendaciones y tareas adicionales
 
-- Utilizar el concepto de polimorfismo en las situaciones que sean aplicables. Por ejemplo es correcto hacer algo así:
+- Utilizar el concepto de polimorfismo en las situaciones que sean aplicables. Por ejemplo **NO** es correcto hacer algo así:
 
 ```
 public abstract class Tarea {
