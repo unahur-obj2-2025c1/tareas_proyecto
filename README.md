@@ -3,6 +3,8 @@
 Los proyectos se componen de tareas y las tareas de subtareas, que a su vez, las subtareas pueden tener otras subtareas. Cada una de estas tareas y subtareas tiene un tiempo estimado de duración en días.
 ![Proyecto](./img/Proyecto.png)
 
+## Costo y Complejidades
+
 El costo en dinero de una tarea es igual al tiempo de la tarea multiplicado por un valor común y configurable para todas las complejidades. Además cada complejidad puede agregarle un porcentaje extra que se suma al costo.
 
 - Complejidad mínima: no agrega porcentaje extra.
