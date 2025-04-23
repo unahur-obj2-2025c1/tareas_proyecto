@@ -1,5 +1,3 @@
-# Excluir la carpeta .mvn/ (Maven Wrapper)
-.mvn/
 
 # Excluir la carpeta .vscode/ (configuraciones de VS Code)
 .vscode/
